@@ -10,7 +10,7 @@
 
 - 👩🏻‍💻 I'm a Frontend Engineer with a passion for [Vue.js](https://vuejs.org/) and [Nuxt.js](https://nuxtjs.org/)
 - 🌱 Currently learning Python and Django
-- ✍️ Writing tech blog posts over at **[dev.to](https://dev.to/highflyer910)**
+- ✍️ Writing tech blog posts on **[dev.to](https://dev.to/highflyer910)**
 - 🎨 Trying out graphic design in my spare time
 
 <details>
