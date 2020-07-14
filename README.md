@@ -9,7 +9,7 @@
   </p>
 
 - 👩🏻‍💻 I'm a Frontend Engineer with a passion for Vue.js and Nuxt.js
-- 🌱 Currently learning Python and Jango
+- 🌱 Currently learning Python and Django
 - ✍️ Writing tech blog posts over at **[dev.to](https://dev.to/highflyer910)**
 - 🎨 Trying out graphic design in my spare time
 
