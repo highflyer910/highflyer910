@@ -8,7 +8,7 @@
     <a href="https://www.behance.net/highflyer910" alt="Behance"><img src="https://res.cloudinary.com/highflyer910/image/upload/v1594744627/behance_lm3pej.png"/></a>
   </p>
 
-- 👩🏻‍💻 I'm a Frontend Engineer with a passion for Vue.js and Nuxt.js
+- 👩🏻‍💻 I'm a Frontend Engineer with a passion for [Vue.js](https://vuejs.org/) and [Nuxt.js](https://nuxtjs.org/)
 - 🌱 Currently learning Python and Django
 - ✍️ Writing tech blog posts over at **[dev.to](https://dev.to/highflyer910)**
 - 🎨 Trying out graphic design in my spare time
