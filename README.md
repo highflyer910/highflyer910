@@ -13,7 +13,7 @@
 - ✍️ Writing tech blog posts on **[dev.to](https://dev.to/highflyer910)**
 - 🎨 Trying out graphic design in my spare time
 
- <details>
+  <details>
     <summary>Some facts about me</summary>
     <br>
 
@@ -22,7 +22,7 @@
     - 🧘 I Practice yoga and qigong to avoid burnout 
 
    <img src="https://github-readme-stats.vercel.app/api?username=highflyer910&show_icons=true" alt="highflyer910" /> 
- </details>
+  </details>
 
 
 <p align="center">
