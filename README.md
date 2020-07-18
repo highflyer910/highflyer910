@@ -20,7 +20,7 @@
     - 🎮 I am an in-game photographer making pictures in **[VR](https://vrphotography.netlify.app/)**.
     - 🎶 I love Listening to smooth jazz while coding
     - 🧘 I Practice yoga and qigong to avoid burnout 
-
+    <br>
    <img src="https://github-readme-stats.vercel.app/api?username=highflyer910&show_icons=true" alt="highflyer910" /> 
   </details>
 
