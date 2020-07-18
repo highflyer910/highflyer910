@@ -13,16 +13,16 @@
 - ✍️ Writing tech blog posts on **[dev.to](https://dev.to/highflyer910)**
 - 🎨 Trying out graphic design in my spare time
 
-<details>
-  <summary>Fun facts about me</summary>
-  <br>
+  <details>
+    <summary>Fun facts about me</summary>
+    <br>
 
-  - 🎮 I am an in-game photographer making pictures in **[VR](https://vrphotography.netlify.app/)**.
-  - 🎶 I love Listening to smooth jazz while coding
-  - 🧘 I Practice yoga and qigong to avoid burnout 
+    - 🎮 I am an in-game photographer making pictures in **[VR](https://vrphotography.netlify.app/)**.
+    - 🎶 I love Listening to smooth jazz while coding
+    - 🧘 I Practice yoga and qigong to avoid burnout 
 
   
-</details>
+  </details>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=highflyer910&show_icons=true" alt="highflyer910" /> </p>
 
