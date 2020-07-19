@@ -22,7 +22,7 @@
 
   <details>
     <summary>Some facts about me</summary>
-   <img src="https://github-readme-stats.vercel.app/api?username=highflyer910&show_icons=true" alt="highflyer910" /> 
+   <img src="https://github-readme-stats.vercel.app/api?username=highflyer910&show_icons=true&hide=[%22issues%22]&theme=radical" alt="highflyer910" /> 
   </details>
 
 
