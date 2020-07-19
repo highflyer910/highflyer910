@@ -8,8 +8,8 @@
     <a href="https://www.behance.net/highflyer910" alt="Behance"><img src="https://res.cloudinary.com/highflyer910/image/upload/v1595169429/behance_fyw9st.png"/></a>
   </p>
 
-- 👩🏻‍💻 I'm a Frontend Engineer, love working with [Vue.js](https://vuejs.org/) and [Nuxt.js](https://nuxtjs.org/)
-- 🌱 Learning Python and Django
+- 👩🏻‍💻 I'm a [Vue.js](https://vuejs.org/) Frontend Engineer
+- 🌱 Currently learning Python and Django
 - ✍️ Writing tech blog posts on **[dev.to](https://dev.to/highflyer910)**
 - 🎨 Trying out graphic design in my spare time
 - 🎮 An in-game photographer making pictures in **[VR](https://vrphotography.netlify.app/)**.
