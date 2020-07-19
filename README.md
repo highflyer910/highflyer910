@@ -15,7 +15,7 @@
 - 🎮 An in-game photographer making pictures in **[VR](https://vrphotography.netlify.app/)**.
 - 🎶 Listening to smooth jazz while coding
 - 🧘 Practicing yoga and qigong to avoid burnout 
-- 💬 Favourite Quotes:
+- 💬 Favorite Quotes:
 > "Any sufficiently advanced technology is indistinguishable from magic." - Arthur C. Clarke
 
 > "The only way to get smarter is by playing a smarter opponent." - Fundamentals of Chess
