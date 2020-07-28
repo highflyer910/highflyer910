@@ -1,9 +1,9 @@
 
 <img src="https://res.cloudinary.com/highflyer910/image/upload/v1595114760/me_l1o4qs.jpg" >
 <p align="center">
-    <a href="https://twitter.com/highflyer910" alt="Twitter"><img src="https://res.cloudinary.com/highflyer910/image/upload/v1595169429/twitter_ypjwwo.png"/></a>
-    <a href="https://codepen.io/HighFlyer/" alt="Codepen"><img src="https://res.cloudinary.com/highflyer910/image/upload/v1595169429/codepen_oho4nz.png"/></a>
-    <a href="https://highflyer910.github.io/" alt="My site"><img src="https://res.cloudinary.com/highflyer910/image/upload/v1595169429/link_uovkhc.png"/></a>
+    <a href="https://twitter.com/highflyer910" alt="TWITTER"><strong>Twitter</strong></a> •
+    <a href="https://codepen.io/HighFlyer/" alt="Codepen"><strong>Codepen</strong></a> •
+    <a href="https://highflyer910.github.io/" alt="My site"><strong>Portfolio</strong></a> 
   </p>
 
 - 👩🏻‍💻 I'm a [Vue.js](https://vuejs.org/) Frontend Engineer
