@@ -8,7 +8,7 @@
 
 - 👩🏻‍💻 I'm a [Vue.js](https://vuejs.org/) Frontend Engineer
 - 🌱 Currently learning Python and Django
-- ✍️ I write a blog about what I learned on **[dev.to](https://dev.to/highflyer910)**
+- ✍️ Occasionally writing a blog about what I learned on **[dev.to](https://dev.to/highflyer910)**
 - 🎨 Trying out graphic design in my spare time
 - 🎮 An in-game photographer making pictures in **[VR](https://vrphotography.netlify.app/)**.
 - 🎶 Listening to smooth jazz while coding
