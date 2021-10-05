@@ -11,12 +11,13 @@
 - ✍️ Occasionally writing a blog about what I learned on **[dev.to](https://dev.to/highflyer910)**
 - 🎨 Trying out graphic design in my spare time
 - 🎮 An in-game photographer making pictures in **[VR](https://vrphotography.netlify.app/)**.
-- 🎶 Listening to smooth jazz while coding
 - 🧘 Practicing yoga and qigong to avoid burnout 
 - 💬 Favorite Quotes:
 > "Any sufficiently advanced technology is indistinguishable from magic." - Arthur C. Clarke
 
 > "The only way to get smarter is by playing a smarter opponent." - Fundamentals of Chess
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=22smz5hni4thxjww45b2lmdjq&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=22smz5hni4thxjww45b2lmdjq&redirect=true)
 
   <details>
     <summary>Some facts about me</summary>
