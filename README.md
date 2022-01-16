@@ -6,7 +6,7 @@
     <a href="https://highflyer910.github.io/" alt="My site"><kbd>Portfolio</kbd></a> 
   </p>
 
-- 👩🏻‍💻 I'm a [Vue.js](https://vuejs.org/) Frontend Engineer
+- 👩🏻‍💻 I'm a Frontend Engineer
 - 🌱 Currently learning Python (and I love it!)
 - ✍️ Occasionally writing a blog about what I learned on **[dev.to](https://dev.to/highflyer910)**
 - 🎨 Trying out graphic design in my spare time
