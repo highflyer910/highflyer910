@@ -1,5 +1,7 @@
-<img src="https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg">
+
+[![SWUbanner](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://vshymanskyy.github.io/StandWithUkraine)
 <img src="https://res.cloudinary.com/highflyer910/image/upload/v1595978137/meeee_qlardj.png" >
+
 
 <p align="center">
     <a href="https://twitter.com/highflyer910"><kbd>Twitter</kbd></a> •
