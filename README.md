@@ -45,4 +45,4 @@
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://spotify-badge-n7gwjmiy2-highflyer910.vercel.app/api/now-playing" width="540" height="52">
+
