@@ -6,7 +6,8 @@
 <p align="center">
     <a href="https://twitter.com/highflyer910"><kbd>Twitter</kbd></a> •
     <a href="https://codepen.io/HighFlyer/" alt="Codepen"><kbd>Codepen</kbd></a> •
-    <a href="https://highflyer910.github.io/" alt="My site"><kbd>Portfolio</kbd></a> 
+    <a href="https://highflyer910.github.io/" alt="My site"><kbd>Portfolio</kbd></a> •
+    <a href="https://ko-fi.com/highflyer910" alt="Buy me a coffee"><kbd>Ko-Fi</kbd></a>
   </p>
 
 - 👩🏻‍💻 I'm a Frontend Engineer
