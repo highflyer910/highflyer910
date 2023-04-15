@@ -11,11 +11,11 @@
   </p>
 
 - 👩🏻‍💻 I'm a Frontend Engineer
-- 🌱 Currently learning Python (and I love it!)
-- ✍️ Occasionally writing a blog about what I learned on **[dev.to](https://dev.to/highflyer910)**
-- 🎨 Trying out graphic design in my spare time
-- 🎮 An in-game photographer making pictures in **[VR](https://vrphotography.netlify.app/)**.
-- 🧘 Practicing yoga and qigong to avoid burnout 
+- 🌱 Learning Python and loving it!
+- ✍️ I write blogs on **[dev.to](https://dev.to/highflyer910)** about web development and related topics. 
+- 🎨 Exploring graphic design in my spare time.
+- 🎮 An in-game photographer  creating captivating VR images in **[VR](https://ingame-photography.netlify.app/)**.
+- 🧘 Practicing yoga and qigong to manage stress and prevent burnout.
 - 💬 Favorite Quotes:
 > "Any sufficiently advanced technology is indistinguishable from magic." - Arthur C. Clarke
 
