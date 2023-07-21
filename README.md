@@ -14,7 +14,7 @@
 - 🌱 Learning Python and loving it!
 - ✍️ I write blogs on **[dev.to](https://dev.to/highflyer910)** about web development and related topics. 
 - 🎨 Exploring graphic design in my spare time.
-- 🎮 An in-game photographer  creating captivating VR images in **[VR](https://ingame-photography.netlify.app/)**.
+- 🎮 An in-game photographer  creating VR images in **[VR](https://ingame-photography.netlify.app/)**.
 - 🧘 Practicing yoga and qigong to manage stress and prevent burnout.
 - 📚 [Books](https://highflyer.notion.site/62d3175fce984f4a8e5c5e5ebc00975f?v=1fe86795e6d84aeb8699284329989aa9&pvs=4) I am reading
 - 💬 Favorite Quotes:
