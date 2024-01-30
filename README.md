@@ -1,5 +1,4 @@
 
-[![SWUbanner](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://vshymanskyy.github.io/StandWithUkraine)
 <img src="https://res.cloudinary.com/highflyer910/image/upload/v1595978137/meeee_qlardj.png" >
 
 
