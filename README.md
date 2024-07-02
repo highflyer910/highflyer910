@@ -1,5 +1,5 @@
 
-<img src="https://e22u.short.gy/AY7tZr" >
+<img src="https://res.cloudinary.com/dqycbt6xs/image/upload/v1719938759/mee_xhhkmw.png" >
 
 
 <p align="center">
