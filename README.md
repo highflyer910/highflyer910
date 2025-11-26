@@ -22,7 +22,10 @@
 
 > "The only way to get smarter is by playing a smarter opponent." - Fundamentals of Chess
 
-<!--[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=22smz5hni4thxjww45b2lmdjq&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=22smz5hni4thxjww45b2lmdjq&redirect=true)-->
+## Recent Blog Posts
+
+<!-- recent-blog-posts start -->
+<!-- recent-blog-posts end -->
 
   <details>
     <summary>Some facts about me</summary>
@@ -48,6 +51,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 
 
 
