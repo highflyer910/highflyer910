@@ -10,8 +10,8 @@
     <a href="https://ko-fi.com/highflyer910" alt="Buy me a coffee"><kbd>Ko-Fi</kbd></a>
   </p>
 
-- 👩🏻‍💻 I'm a Frontend Engineer
-- 🌱 Learning Python and loving it!
+- 👩🏻‍💻 I'm a full-stack developer
+- 🔐 Currently studying application security & ethical hacking
 - ✍️ I write blogs on **[dev.to](https://dev.to/highflyer910)** about web development and related topics. 
 - 🎨 Exploring graphic design in my spare time.
 - 🎮 An in-game photographer  creating VR images in **[VR](https://ingame-photography.netlify.app/)**.
