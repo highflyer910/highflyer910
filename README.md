@@ -25,8 +25,8 @@
 <p align="left">
   <a href="https://open.spotify.com/user/22smz5hni4thxjww45b2lmdjq">
     <img
-      src="https://spotify-github-profile.kittinanx.com/api/view?uid=22smz5hni4thxjww45b2lmdjq&amp;cover_image=true&amp;theme=novatorem&amp;show_offline=true"
-      alt="Currently playing on Spotify"
+      src="https://spotify-github-profile.kittinanx.com/api/view?uid=22smz5hni4thxjww45b2lmdjq&amp;cover_image=true&amp;theme=novatorem&amp;show_offline=false"
+      alt="Currently or recently played on Spotify"
     />
   </a>
 </p>
