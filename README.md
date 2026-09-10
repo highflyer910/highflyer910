@@ -22,10 +22,10 @@
 
 > "The only way to get smarter is by playing a smarter opponent." - Fundamentals of Chess
 
-<p align="center">
+<p align="left">
   <a href="https://open.spotify.com/user/22smz5hni4thxjww45b2lmdjq">
     <img
-      src="https://spotify-github-profile.kittinanx.com/api/view?uid=22smz5hni4thxjww45b2lmdjq&cover_image=true&theme=novatorem&show_offline=false"
+      src="https://spotify-github-profile.kittinanx.com/api/view?uid=22smz5hni4thxjww45b2lmdjq&amp;cover_image=true&amp;theme=novatorem&amp;show_offline=true"
       alt="Currently playing on Spotify"
     />
   </a>
