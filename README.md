@@ -25,7 +25,7 @@
   <a href="https://dev.to/highflyer910"><img src="assets/devto-badges.svg" alt="My DEV badges" width="648" /></a>
 </p>
 
-<p align="left">
+<p align="center">
   <a href="https://open.spotify.com/user/22smz5hni4thxjww45b2lmdjq">
     <img
       src="https://spotify-github-profile.kittinanx.com/api/view?uid=22smz5hni4thxjww45b2lmdjq&amp;cover_image=true&amp;theme=novatorem&amp;show_offline=false"
