@@ -7,7 +7,6 @@
     <a href="https://twitter.com/highflyer910" alt="X"><kbd>X</kbd></a> •
     <a href="https://bsky.app/profile/highflyer910.bsky.social" alt="Blueky"><kbd>Bluesky</kbd></a> •
     <a href="https://highflyer910.github.io/" alt="My site"><kbd>Portfolio</kbd></a> •
-    <a href="https://ko-fi.com/highflyer910" alt="Buy me a coffee"><kbd>Ko-Fi</kbd></a>
   </p>
 
 - 👩🏻‍💻 I'm a full-stack developer
@@ -21,6 +20,13 @@
 > "Any sufficiently advanced technology is indistinguishable from magic." - Arthur C. Clarke
 
 > "The only way to get smarter is by playing a smarter opponent." - Fundamentals of Chess
+
+<p align="center">
+  <a href="https://dev.to/highflyer910"><img src="assets/devto-followers.svg" alt="DEV followers" height="36" /></a>
+</p>
+<p align="center">
+  <a href="https://dev.to/highflyer910"><img src="assets/devto-badges.svg" alt="My DEV badges" width="648" /></a>
+</p>
 
 <p align="left">
   <a href="https://open.spotify.com/user/22smz5hni4thxjww45b2lmdjq">
@@ -37,18 +43,6 @@
 
 ![](https://komarev.com/ghpvc/?username=highflyer910&color=yellow)
 
-
-<!--
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 
 
