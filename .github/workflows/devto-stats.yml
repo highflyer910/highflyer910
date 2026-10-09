@@ -18,14 +18,8 @@ jobs:
         with:
           node-version: "22"
 
-      - name: Follower pill
-        env:
-          DEVTO_API_KEY: ${{ secrets.DEVTO_API_KEY }}
-          DEVTO_USERNAME: highflyer910
-        run: node scripts/update-followers.js
 
       - name: Badge card
-        # The scraper depends on DEV's HTML. If it breaks, keep the old card and still commit the pill.
         continue-on-error: true
         env:
           DEVTO_USERNAME: highflyer910

@@ -22,9 +22,6 @@
 > "The only way to get smarter is by playing a smarter opponent." - Fundamentals of Chess
 
 <p align="center">
-  <a href="https://dev.to/highflyer910"><img src="assets/devto-followers.svg" alt="DEV followers" height="36" /></a>
-</p>
-<p align="center">
   <a href="https://dev.to/highflyer910"><img src="assets/devto-badges.svg" alt="My DEV badges" width="648" /></a>
 </p>
 
