@@ -3,12 +3,29 @@ const path = require("path");
 const { COLORS, FONT, escapeXml, estimateWidth } = require("./theme");
 
 const API_KEY = process.env.DEVTO_API_KEY;
-
+const USERNAME = process.env.DEVTO_USERNAME || "highflyer910";
 const PREVIEW_COUNT = process.env.FOLLOWERS_COUNT;
 const OUT_FILE = path.join(__dirname, "..", "assets", "devto-followers.svg");
-const PAGE_SIZE = 1000;
+// DEV's documented default is 80. Smaller pages avoid server errors from the
+// followers endpoint when requesting a large page size.
+const PAGE_SIZE = 80;
 
 async function countFollowers() {
+  const identityResponse = await fetch("https://dev.to/api/users/me", {
+    headers: {
+      "api-key": API_KEY,
+      Accept: "application/vnd.forem.api-v1+json",
+      "User-Agent": "github-readme-devto-stats",
+    },
+  });
+  if (!identityResponse.ok) {
+    throw new Error(`DEV API identity check failed (${identityResponse.status}). Check the DEVTO_API_KEY secret.`);
+  }
+  const identity = await identityResponse.json();
+  if (identity.username?.toLowerCase() !== USERNAME.toLowerCase()) {
+    throw new Error(`DEVTO_API_KEY belongs to @${identity.username || "an unknown account"}, expected @${USERNAME}.`);
+  }
+
   let total = 0;
   for (let page = 1; ; page++) {
     const res = await fetch(
@@ -22,7 +39,7 @@ async function countFollowers() {
       }
     );
     if (!res.ok) {
-      throw new Error(`DEV API answered ${res.status} ${res.statusText}. Check the DEVTO_API_KEY secret.`);
+      throw new Error(`DEV API followers request failed on page ${page}: ${res.status} ${res.statusText}.`);
     }
     const followers = await res.json();
     if (!Array.isArray(followers)) throw new Error("Unexpected answer from the DEV API.");

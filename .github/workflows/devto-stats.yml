@@ -21,6 +21,7 @@ jobs:
       - name: Follower pill
         env:
           DEVTO_API_KEY: ${{ secrets.DEVTO_API_KEY }}
+          DEVTO_USERNAME: highflyer910
         run: node scripts/update-followers.js
 
       - name: Badge card
